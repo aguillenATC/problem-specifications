@@ -22,6 +22,8 @@ For example, the six throws of four dice may look like:
 
 Because constitution is 3, the constitution modifier is -4 and the hitpoints are 6.
 
+You are required to write another method named ability that should return one random ability (strength, dexterity, etc.). 
+
 ## Notes
 
 Most programming languages feature (pseudo-)random generators, but few programming languages are designed to roll dice.
